@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:\\Kajer\\MachineLearning\\HandsOn\\ChatBot\\model.tflearn"
+all_model_checkpoint_paths: "D:\\Kajer\\MachineLearning\\HandsOn\\ChatBot\\model.tflearn"
